@@ -1,0 +1,2 @@
+# Local validation environment; standard-library tools need no packages.
+PyYAML==6.0.2

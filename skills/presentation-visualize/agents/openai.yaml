@@ -1,0 +1,6 @@
+interface:
+  display_name: "Наглядное объяснение"
+  short_description: "Схемы, таблицы, графики и смысловые связи"
+  default_prompt: "Используй $presentation-visualize для этой задачи и подготовь законченный результат."
+policy:
+  allow_implicit_invocation: true

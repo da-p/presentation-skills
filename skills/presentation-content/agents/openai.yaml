@@ -1,0 +1,6 @@
+interface:
+  display_name: "Контент презентации"
+  short_description: "Тексты, факты, примеры и связная история"
+  default_prompt: "Используй $presentation-content для этой задачи и подготовь законченный результат."
+policy:
+  allow_implicit_invocation: true

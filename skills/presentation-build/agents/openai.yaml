@@ -1,0 +1,6 @@
+interface:
+  display_name: "Сборка и выпуск"
+  short_description: "Готовые файлы, проверка отображения и экспорт"
+  default_prompt: "Используй $presentation-build для этой задачи и подготовь законченный результат."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Доводка презентации"
+  short_description: "Точные исправления без повторного полного цикла"
+  default_prompt: "Используй $presentation-polish для этой задачи и подготовь законченный результат."
+policy:
+  allow_implicit_invocation: true

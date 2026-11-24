@@ -1,0 +1,6 @@
+interface:
+  display_name: "Критика презентации"
+  short_description: "Отдельная оценка содержания, объяснения и дизайна"
+  default_prompt: "Используй $presentation-critique для этой задачи и подготовь законченный результат."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Редизайн презентации"
+  short_description: "Новая подача с сохранением содержания и удачного"
+  default_prompt: "Используй $presentation-redesign для этой задачи и подготовь законченный результат."
+policy:
+  allow_implicit_invocation: true

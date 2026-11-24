@@ -1,0 +1,6 @@
+interface:
+  display_name: "Структура презентации"
+  short_description: "Контекст, тезисы, доказательства и порядок слайдов"
+  default_prompt: "Используй $presentation-structure для этой задачи и подготовь законченный результат."
+policy:
+  allow_implicit_invocation: true
